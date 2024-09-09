@@ -30,5 +30,6 @@ def main(stdscr):
 
 
 if __name__ == "__main__":
+    print("lets go")
     wrapper(main)
     
